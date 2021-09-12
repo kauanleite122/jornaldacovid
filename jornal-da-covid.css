@@ -1,0 +1,109 @@
+.caixa {
+	position: relative;
+	width:940px;
+	margin: 3em auto;
+	text-align: center;
+   
+
+}
+
+.copyright {
+	color: #FFFFFF;
+	font-size: 13px;
+	margin: 20px 0 0;
+}
+
+header{
+  text-align: center;
+  background: url("red2.jfif");
+  padding: 40px 0;  
+
+   }
+
+.cabeçalho{
+
+  color: black;
+  font-size: 70px;
+  margin: 20px 0 0;
+  text-shadow: 10px 10px 30px #000000;
+
+}
+
+
+
+h1{
+	font-size: 50px;
+	text-align: center;
+	text-shadow: 10px 10px 30px #000000;
+}
+
+p, li{
+	font-size: 30px;
+}
+
+h3{
+
+	font-size: 40px ; 
+
+	   }
+
+
+li,h1{
+
+	font-style: italic;
+}
+
+footer {
+	text-align: center;
+	background: url("bg.jpg");
+	padding: 40px 0;
+}
+
+
+
+
+.tipo{
+	position: relative;
+	width: 940px;
+	margin: 1em auto;
+	border-radius: 10px;
+  box-shadow: 10px 10px 30px 20px  black;
+  box-sizing: border-box;
+  margin-top: ;
+
+  }
+
+.corona{
+    
+	position: relative ;
+  width:940px;
+  margin: 1em 0%;
+  border-radius: 20px;
+  box-shadow: 10px 10px 30px 20px  black;
+
+}
+
+body{
+
+  background: linear-gradient(#efefef,#e0dee0,#d1ced1,#c1bfc2,#b3afb3,#a4a0a5   /*#9c9c9c*/);
+}
+
+.grafico{
+
+border-radius: 10px;
+
+}
+
+nav a{
+
+  color: red;
+	text-decoration: none;
+
+
+}
+
+nav a:hover {
+
+	color: darkred;
+	text-decoration: underline;
+}
